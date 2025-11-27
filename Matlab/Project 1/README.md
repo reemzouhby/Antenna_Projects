@@ -8,8 +8,6 @@ This project analyzes and simulates the radiation patterns of dipole antennas us
 - Simulate and visualize 2D and 3D radiation patterns for dipole antennas.  
 - Analyze the effect of antenna length on radiation characteristics.  
 - Calculate directivity as a function of l/λ.  
-- Determine half-power beamwidth (HPBW) for different antenna lengths.
-
 ## Methodology
 - MATLAB was used for all simulations.  
 - **Angular resolution:** 1000 points for θ and ϕ.  
@@ -30,7 +28,8 @@ This project analyzes and simulates the radiation patterns of dipole antennas us
 
 ## MATLAB Files
 - `Hertzian_Dipole.m` – Simulates Hertzian dipole radiation pattern.  
-- `Finite_Length_Dipole.m` – Simulates finite-length dipole radiation patterns and computes directivity.  
+- `Finite_Length_Dipole.m` – Simulates finite-length dipole radiation patterns and computes directivity.
+- `DirectivityCalculation.m` for calculate the directivity of the antenna . 
 
 ## Visualization
 - 2D polar plots: E vs θ and E vs ϕ.  
@@ -42,6 +41,7 @@ This project analyzes and simulates the radiation patterns of dipole antennas us
 2. Navigate to the project folder.  
 3. Run the scripts:
    - `HertzianDipole.m` for Hertzian dipole simulation.  
-   - `Finite-LengthDipoleSimulation.m` for finite-length dipole simulation.  
-   -`DirectivityCalculation.m` for calculate the directivity of the antenna . 
+   - `Finite-LengthDipoleSimulation.m` for finite-length dipole simulation.
+   - `DirectivityCalculation.m` for calculate the directivity of the antenna .   
+  
 
