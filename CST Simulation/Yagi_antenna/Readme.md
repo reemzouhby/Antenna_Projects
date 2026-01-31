@@ -308,8 +308,8 @@ Refer to specific sections:
 
 ## 👥 Authors
 
-**Reem AL-ZOUHBY** (ID: 2223)  
-**Sourour Hammoud** (ID: 2254)
+**Reem AL-ZOUHBY**  
+**Sourour Hammoud** 
 
 Supervised by: **Dr. ALI HARMOUCH**
 
@@ -318,11 +318,8 @@ Supervised by: **Dr. ALI HARMOUCH**
 ## 🚀 Getting Started
 
 1. **Start here:** `README.md` (this file)
-2. **Read report:** `Antenna_Design_Report.pdf`
-3. **Review specs:** `design_data/final_dimensions.xlsx`
-4. **View results:** `images/results/`
-5. **Explore code:** `simulations/analysis_scripts/`
-6. **Build antenna:** `documentation/construction_guide.md`
+2. **Read report:** `antenna.pdf`
+
 
 
 ---
